@@ -1,0 +1,5 @@
+//how to create server with express?
+const express = require("express");
+const app = express();
+
+app.listen(process.env.APP_PORT() => )
